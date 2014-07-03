@@ -3,7 +3,8 @@ date: 2014-07-03
 tags: Swift
 comments: true
 ---
-<br>
+
+
 ```
 var a = 2
 let b = 40
