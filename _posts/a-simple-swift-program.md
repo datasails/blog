@@ -14,5 +14,5 @@ var output = "The answer is \(result)"
 println(result)
 ```
 
-We have a variable here - 'a', we have a constant - 'b', we have a string variable - 'output' and no semicolon at the end of the line. 
+We have a variable 'a', a constant 'b', we have a string variable 'output' and no semicolon at the end of the line. 
 
